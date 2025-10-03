@@ -66,7 +66,7 @@
 ### 📫 Let's Connect!
 - **Email:** [jlin618@gmail.com](mailto:jlin618@gmail.com)
 - **LinkedIn:** [linkedin.com/in/jin-lin-271704387](https://linkedin.com/in/jin-lin-271704387)
-- [Resume (https://github.com/yourusername/yourusername/blob/main/Jin_Lin_Resume.pdf)
+[📋 View Resume (Text Version)](https://github.com/yourusername/yourusername/blob/main/RESUME.md)
 - **Phone:** +60 13-952 8372
 
 <p align="center">
