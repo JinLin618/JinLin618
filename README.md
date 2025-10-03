@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/jin-lin-271704387">LinkedIn</a> •
   <a href="mailto:jlin618@gmail.com">Email</a> •
-  <a href="[Your Resume/CV Link if hosted online]">Resume</a>
+  <a href="https://github.com/JinLin618/JinLin618/raw/main/Jin_Lin_Resume.pdf">📄 Download Resume</a>
 </p>
 
 ---
